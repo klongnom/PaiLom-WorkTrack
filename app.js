@@ -1403,7 +1403,7 @@ class PhailomTaskApp {
       </div>
       <div class="bin-card b-yellow">
         <span class="b-count">${totalYellow}</span>
-        <span class="b-label">ถังเหลือง (รีไซเคิล)</span>
+        <span class="b-label">ถังเหลือง (สารเคมี)</span>
       </div>
       <div class="bin-card b-total">
         <span class="b-count">${grandTotal}</span>
