@@ -1399,7 +1399,7 @@ class PhailomTaskApp {
       </div>
       <div class="bin-card b-green">
         <span class="b-count">${totalGreen}</span>
-        <span class="b-label">ถังเขียว (เปียก)</span>
+        <span class="b-label">ถังเขียว (รีไซเคิล)</span>
       </div>
       <div class="bin-card b-yellow">
         <span class="b-count">${totalYellow}</span>
